@@ -1,0 +1,6 @@
+[user]
+	email = irishgreencitrus@gmail.com
+	name = irishgreencitrus
+[credential "https://github.com"]
+	helper = 
+	helper = !/nix/store/5gchqpvwkhvmw716877gh6vjhk6lhmxh-gh-2.2.0/bin/gh auth git-credential

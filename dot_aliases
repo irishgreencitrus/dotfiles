@@ -1,0 +1,12 @@
+export EDITOR="/home/lime/.nix-profile/bin/nvim"
+export VISUAL=$EDITOR
+
+alias edit=$EDITOR
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+alias gig='git clone --depth=1 '

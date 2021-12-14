@@ -1,0 +1,11 @@
+set nocompatible
+set ruler
+set number
+set relativenumber
+set autoindent
+set wildmenu
+colorscheme torte
+syntax enable
+set laststatus=2
+set smarttab
+set backspace=indent,eol,start
