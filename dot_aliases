@@ -1,5 +1,6 @@
-export EDITOR="/home/lime/.nix-profile/bin/nvim"
+export EDITOR="$HOME/.nix-profile/bin/nvim"
 export VISUAL=$EDITOR
+export PATH=$PATH:"$HOME/bin"
 
 alias edit=$EDITOR
 alias ls='ls --color=auto'
